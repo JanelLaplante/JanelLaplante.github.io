@@ -142,8 +142,8 @@ body {
 }
 
 mark {
-  background-color: transparent;
-  color: inherit;
+  background-color:grey;
+  color:white;
 }
 
 input::-moz-focus-inner {
@@ -173,7 +173,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background
 }
 
 body.is-preload *,
@@ -193,7 +193,7 @@ body,
 input,
 select,
 textarea {
-  color: #888;
+  color:grey;
   font-family: "Lato", sans-serif;
   font-size: 16pt;
   font-weight: 400;
@@ -219,8 +219,8 @@ a {
 }
 
 a:hover {
-  border-bottom-color: transparent;
-  color: #b8947c !important;
+  border-bottom-color:blue;
+  color: yellow!important;
 }
 
 strong,
@@ -316,7 +316,7 @@ blockquote {
 }
 
 code {
-  background: #555;
+  background: #550;
   border-radius: 5px;
   color: #fff;
   font-family: "Source Code Pro", monospace;
@@ -1861,7 +1861,7 @@ article.special {
 }
 
 header p {
-  color: #aaa;
+  color: ;
   position: relative;
   margin: 0 0 1.6875em 0;
 }
@@ -1887,12 +1887,12 @@ header h6 + p {
 }
 
 header.major h2 {
-  color: #b8947c;
+  color:#C71585;
   font-size: 3.5em;
 }
 
 header.major h2 + p {
-  color: #777;
+  color:#C71585;
   font-size: 1.75em;
   font-weight: 700;
   margin-top: -0.75em;
@@ -1905,7 +1905,7 @@ form {
 }
 
 label {
-  color: #777;
+  color:#C71585;
   display: block;
   font-size: 0.9em;
   font-weight: 700;
@@ -1950,7 +1950,7 @@ input[type="password"]:focus,
 input[type="email"]:focus,
 select:focus,
 textarea:focus {
-  border-color: #b8947c;
+  border-color:#FF1493;
 }
 
 select {
@@ -1969,7 +1969,7 @@ select option {
 }
 
 select:focus::-ms-value {
-  background-color: transparent;
+  background-color:#FF1493;
 }
 
 select::-ms-expand {
@@ -2004,7 +2004,7 @@ input[type="radio"] {
 input[type="checkbox"] + label,
 input[type="radio"] + label {
   text-decoration: none;
-  color: #888;
+  color: #FF1493;
   cursor: pointer;
   display: inline-block;
   font-size: 1em;
@@ -2049,13 +2049,13 @@ input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
   background: #989898;
   border-color: #989898;
-  color: #ffffff;
+  color:#FF1493;
   content: "\f00c";
 }
 
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
-  border-color: #b8947c;
+  border-color:#FF1493;
 }
 
 input[type="checkbox"] + label:before {
@@ -2502,7 +2502,7 @@ ul.feature-icons li:before {
 }
 
 ul.feature-icons li:before {
-  background: #b8947c;
+  background: #aaa ;
   border-radius: 100%;
   color: #ffffff;
   display: block;
@@ -2843,7 +2843,7 @@ input[type="button"]:disabled,
 }
 
 #header a {
-  color: #eadfd8;
+  color: #aaa ;
 }
 
 #header a:hover {
