@@ -1887,12 +1887,12 @@ header h6 + p {
 }
 
 header.major h2 {
-  color:#C71585;
+  color: #FFB6C1;
   font-size: 3.5em;
 }
 
 header.major h2 + p {
-  color:#C71585;
+  color: #FFB6C1;
   font-size: 1.75em;
   font-weight: 700;
   margin-top: -0.75em;
@@ -1905,7 +1905,7 @@ form {
 }
 
 label {
-  color:#C71585;
+  color:#A9A9A9;
   display: block;
   font-size: 0.9em;
   font-weight: 700;
@@ -2047,15 +2047,15 @@ input[type="radio"] + label:before {
 
 input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
-  background: #989898;
+  background:#A9A9A9;
   border-color: #989898;
-  color:#FF1493;
+  color:#989898;
   content: "\f00c";
 }
 
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
-  border-color:#FF1493;
+  border-color:#989898;
 }
 
 input[type="checkbox"] + label:before {
@@ -2502,7 +2502,7 @@ ul.feature-icons li:before {
 }
 
 ul.feature-icons li:before {
-  background: #aaa ;
+  background: #aaa;
   border-radius: 100%;
   color: #ffffff;
   display: block;
@@ -2809,8 +2809,8 @@ input[type="button"]:disabled,
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background: #b8947c;
-  color: #eadfd8;
+  background: #FFB6C1;
+  color: #989898;
   height: 100%;
   overflow-y: auto;
   position: fixed;
