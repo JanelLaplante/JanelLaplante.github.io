@@ -1,0 +1,203 @@
+---
+title: 'Projet de Session - "Quels sont les impacts du télétravail sur les salariés"'
+author: "[Janel Laplante]"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# 1. Introduction
+
+## 1.1 Question de recherche
+
+Avec l'essor des technologies numériques et l'évolution des modes de travail, le télétravail est devenu une composante de l'organisation du travail dans de nombreuses entreprises à travers le monde. Le déclenchement de la pandémie de COVID-19 a accéléré cette transformation, poussant un grand nombre d'organisations à adopter le télétravail pour maintenir la continuité des activités tout en respectant les mesures sanitaires. Bien que le télétravail ait été perçu comme une solution temporaire, il est désormais intégré de manière pérenne dans de nombreuses stratégies organisationnelles. C'est pourquoi la question de recherche de ce travail est la suivante: **"Quels sont les impacts du télétravail sur les salariés?"**
+
+Cette question de recherche vise à s'intéresser aux répercussions de ce nouveau mode de travail sur les employés de divers entreprises. Cette question à également pour objectif de déterminer les facteurs du télétravail qui peuvent influencer de manière positive ou négative la vie des salariés autant dans leurs vies professionnelles que personnelles.
+
+# 2. Hypothèse et revue de la littérature scientifique
+
+## 1.1 Revue de la littérature scientifique
+
+Parmi les articles qui offrent une vision plutôt favorable du télétravail pour les salariés, le texte ***Les bénéfices du télétravail*** de Patrick Tissandier et Sophie Mariani-Rousset (Tissandier et Mariani-Rousset, 2019) propose d’étudier l’impact du télétravail sur la qualité de vie des télétravailleurs ainsi que sur la mobilité. Cette recherche repose sur un recrutement dans deux entreprises pilotes, suivi par l'observation de télétravailleurs en phase d’expérimentation afin d'évaluer les avantages et les inconvénients du télétravail. Selon l'article, malgré les aspects contraignants, les résultats montrent des conséquences positives dues à l’absence de mobilité, tant sur la santé individuelle que collective (enjeux environnementaux, urbains, etc.).
+
+Dans ce même ordre d'idées, l’étude quantitative ***L’impact du télétravail en temps de crise sanitaire sur le bien-être au travail : perceptions différentes entre les hommes et les femmes ?*** (Giuliano et Marcipont, 2023) met en lumière les différents facteurs du bien-être au travail. Cette étude constate que l'impact du télétravail est positif aussi bien pour les hommes que pour les femmes.
+
+L'étude ***Quel est l’impact du télétravail forcé par la pandémie sur la gestion de la motivation des employés et les techniques managériales visant à entretenir celle-ci ?*** (Noirfalise et Meurens, 2021) offre également une perspective positive du télétravail, mais reste réaliste face aux conséquences négatives que cette nouvelle technique de travail peut engendrer. En effet, les auteurs affirment que le contact social a grandement été négligé, et que les relations entre collègues ont gravement manqué aux individus consultés dans l'étude. Cet isolement a même exacerbé des états de mal-être chez certains. Cependant, cette étude de cas soutient que le télétravail peut être avantageux pour les salariés, tant qu’il est volontaire, contrôlé et partiel.
+
+C'est également ce que l'étude de cas de Mathilde Liégeois, ***Quel est l'impact du télétravail sur la cohésion des équipes ?*****(**Liégeois, 2021) révèle. L’étude réalisée chez PwC Luxembourg suggère que l'impact dépend du grade des travailleurs, mais également de la gestion du télétravail, c'est-à-dire s'il est permanent ou en alternance.
+
+Finalement, un dernier article relevé lors de la revue de littérature est *L**a gestion des personnes en période de télétravail***(Ognodo, 2021). Les résultats de l'étude montrent que les employés perçoivent généralement le télétravail de manière positive. Parmi les avantages exposés, il est possible d'y retrouver la réduction des déplacements, la diminution de certaines dépenses (comme les frais de transport et de restauration) et une augmentation de l'efficacité au travail. Toutefois, l'étude met également en lumière des défis importants. Un des points négatifs récurrents concerne la rupture du lien social, le manque d'interactions informelles et de cohésion d'équipe. De plus, les résultats suggèrent que pour que le télétravail soit véritablement efficace à long terme, les gestionnaires doivent être plus à l'écoute des besoins des employés, en facilitant la communication et en soutenant activement les travailleurs à distance. Bref, cet article suggère une position plus modérée face au télétravail, en mettant en lumière ses aspects positifs, mais également les défis qu'engendre cette nouvelle structure de travail.
+
+## 1.2 Hypothèse
+
+En lien avec la question de recherche et suite à la revue de littérature, l'hypothèse suivante a été formulée : "**je suppose que le télétravail a des impacts majoritairement positifs sur les salariés**". Cette hypothèse repose sur l'idée que le télétravail peut être grandement bénéfique pour les employés, contribuant à une augmentation de la motivation et à une meilleure qualité de vie. Cependant, mon hypothèse peut être nuancée en considérant que la littérature semble indiquer que les impacts positifs du télétravail sur les travailleurs dépendent principalement des mesures et du soutien mis en place par l'employeur au sein de son entreprise.
+
+## 1.3 Les outils utilisés pour la revue de la littérature
+
+Dans le cadre de ma revue de littérature, j'ai utilisé Google Scholar et Zotero comme outils principaux pour collecter et organiser les sources pertinentes.
+
+Google Scholar m’a permis d’effectuer une recherche approfondie et ciblée d’articles académiques, de thèses, et de rapports scientifiques en lien avec les différents aspects du télétravail, tels que ses effets sur la productivité, le bien-être des salariés, l’équilibre vie professionnelle/vie personnelle, ainsi que les défis organisationnels. En utilisant des mots-clés précis et des filtres de date et de langue, j'ai pu accéder à une vaste base de données d'études récentes et pertinentes sur le sujet.
+
+Zotero, quant à lui, m'a permis de gérer efficacement les références collectées, de les organiser par thématiques et de créer une bibliographie conforme aux normes académiques. Grâce à ses fonctionnalités de gestion de documents et de création de citations, Zotero a facilité l'intégration et la mise à jour continue des sources dans ma revue, tout en assurant une traçabilité rigoureuse de mes sources.
+
+Ces outils m'ont donc offert une approche méthodologique rigoureuse et une gestion optimale de l'information nécessaire à la construction de ma revue de littérature.
+
+# 2.Collecte des données
+
+J’ai débuté ma collecte de données pour ce travail de recherche avec la plateforme Eureka. Cependant, bien que cet outil offre un accès à une vaste gamme de contenus médiatiques, j’ai constaté que son interface et ses fonctionnalités de recherche ne répondaient pas entièrement à mes besoins en termes de pertinence et de précision des résultats. Ainsi, j’ai finalement opté pour Factiva, un outil accessible via la licence de l’Université Laval.
+
+Pour collecter des données liées à mon sujet dans Factiva, j'ai tout d'abord établi une liste de mots-clés pertinents à ma question de recherche. Voici les principaux mots utilisés : t**élétravail, employé, bien-être, impacts et santé.** J'ai principalement effectué mes recherches en combinant le mot *télétravail* avec les autres mots choisis afin d’obtenir des articles axés sur l’analyse du télétravail. À noter que je n'ai pas précisé une sélection de langues dans ma recherche, mais j'ai tenté de faire des recherches à la fois en anglais et en français pour élargir mon répertoire.
+
+J’ai également précisé vouloir restreindre ma recherche aux cinq dernières années, période marquée par une adoption massive du télétravail en raison de la pandémie. J'ai aussi demandé à trier les doublons afin de ne pas dupliquer les articles collectés.
+
+Une fois la recherche lancée, je me suis assurée de trier les articles par pertinence, sachant que certains de mes mots-clés pouvaient mener à d’autres thématiques. Je souhaitais extraire une sélection de 40 articles pertinents pour ma recherche. Finalement, ma recherche s'est conclue avec un répertoire de 38 articles.
+
+Lorsque les articles pertinents ont été identifiés et sélectionnés, j’ai utilisé la fonction d’exportation de Factiva pour sauvegarder les articles. Je les ai sauvegardés en exportant les titres des articles choisis afin de pouvoir les transposer dans un tableau Excel.
+
+La création d'un tableau Excel avait pour objectif de trier chaque article selon des critères pertinents pour ma question de recherche. Parmi ces critères, j'ai classé les articles en fonction de leur perception du télétravail comme ayant des impacts positifs ou négatifs sur les travailleurs. J'ai également créé des critères sur les raisons déterminant l'impact positif ou négatif de ce type de travail, tels que la santé mentale, la performance au travail, l’aspect social et les impacts externes. Ce tableau détaillé m’a permis de structurer et d’analyser les informations selon des critères spécifiques.
+
+En outre, la qualité des sources collectées via Factiva a été un atout majeur dans la construction de cette recherche, notamment grâce à la présence d'études réalisées en contexte européen et nord-américain.
+
+# 3.Analyse et visualisation des données
+
+Voici les données extraites lors de ma collecte:
+
+### Graphique 1 : Répartition des articles selon leur l'opinion sur le télétravail
+
+Voici un graphique qui répartit les articles en fonction de leur évaluation des impacts du télétravail sur les salariés, qu'ils soient positifs, négatifs ou neutres.
+
+![](images/répartition.png){width="346"}
+
+### Graphique 2 à 4: Classement des articles par catégories d'impacts
+
+Voici un graphique présentant les articles classés selon les catégories d'impacts.
+
+![](images/graphique_negatifs.png){width="342" height="235"}
+
+![](images/Neutre.png){width="335"}
+
+![](images/graphique_positif.png){width="334" height="238"}
+
+## Explications
+
+Pour réaliser mon analyse et produire mes visualisations, j’ai utilisé une combinaison d’outils et de ressources. Tout d’abord, j’ai cumulé et organisé mes données dans Excel, où j’ai recensé 38 articles, dont deux étaient classés dans plusieurs catégories d’opinion sur le télétravail (neutres et négatifs). Ces données comprenaient des informations sur les articles, leurs catégories d’impact, ainsi que leur tonalité (positive, négative, neutre). Une fois les données préparées, je les ai importées dans le langage R, où j’ai utilisé le package ggplot2 pour créer mes graphiques.
+
+J’ai commencé par concevoir un graphique représentant la répartition des articles selon leur opinion sur le télétravail, incluant les tonalités positives, négatives et neutres. Ensuite, j’ai élaboré trois graphiques distincts, chacun présentant les articles classés selon les catégories d’impacts : Aspect social, Impacts au travail, Impacts externes et Santé mentale. Ces graphiques ont permis de mieux visualiser les thématiques dominantes et la répartition des articles en fonction de leur contenu.
+
+Pour m’aider dans la création de ces graphiques, j’ai utilisé ChatGPT comme outil d’assistance pour formuler les scripts et résoudre les problèmes techniques rencontrés. J’ai également consulté des ressources pédagogiques sur DataCamp, qui m’ont aidé à mieux comprendre les fonctionnalités de ggplot2 et à personnaliser mes visualisations en fonction des besoins de mon projet. Cette approche m’a permis de produire des graphiques clairs et pertinents pour répondre à la problématique de mon travail.
+
+# 4.Discussion
+
+Dans le cadre de ce travail de recherche, le choix des outils utilisés a été guidé par plusieurs critères essentiels en lien avec mes besoins spécifiques et les valeurs qui ont orienté mes décisions. Lors de cette réflexion, j'ai pris en compte les critères de sélection des outils abordés en classe, notamment l'accessibilité, la communauté d'utilisateurs, la popularité dans le domaine de l'analyse de données, ainsi que des éléments plus techniques comme la compatibilité entre les outils, la transparence, la réplicabilité et la flexibilité.
+
+#### Accessibilité et compatibilité
+
+L’**accessibilité** des outils a été un critère majeur dans le choix de ceux que j’ai utilisés. Pour la collecte et l’organisation des données, j'ai opté pour **Factiva** et **Excel**, car ces outils étaient facilement accessibles grâce à l'abonnement de l'Université Laval et aux fonctionnalités de base d’Excel, que je maîtrise déjà. Ces outils sont populaires et largement utilisés dans les milieux académiques, ce qui a facilité leur adoption.
+
+#### Existence d’une communauté d’utilisateurs
+
+Un autre facteur déterminant a été l’**existence d’une communauté d’utilisateurs.** L'utilisation de **R** et de son package **ggplot2** m’a permis de bénéficier d'outils gratuits, en plus de pouvoir me référer à plusieurs guides d'utilisations partagés par d'autres utilisateurs. J’ai également eu recours à **ChatGPT**, un outil basé sur l'intelligence artificielle, qui a pu me fournir des solutions pratiques aux difficultés rencontrées lors de l’élaboration des graphiques.
+
+#### Popularité et flexibilité dans le domaine
+
+La **popularité** de **R** et de **ggplot2** dans le domaine de l’analyse de données, et plus spécifiquement dans les sciences sociales, a constitué un autre facteur clé de mon choix. Ces outils sont largement utilisés pour leurs capacités de visualisation de données et leur flexibilité dans la personnalisation des graphiques. **R** est connu pour son potentiel d’analyse statistique et son intégration avec des outils comme **Excel** et **ChatGPT**, ce qui m’a permis de traiter et d’analyser mes données de manière optimale. La capacité d’adaptabilité de **ggplot2** à différents types de données et à des besoins variés a aussi été fort utiles pour l'adapter à mes besoins.
+
+#### Transparence et réplicabilité
+
+En ce qui concerne la **transparence** et la **réplicabilité**, ces aspects étaient essentiels, surtout en matière de méthodologie scientifique. Utiliser **R** permet de conserver une traçabilité totale des étapes de l’analyse. En conservant le code source des graphiques et des transformations de données, il devient possible pour un autre chercheur de reproduire exactement le même travail. Cela garantit la transparence des méthodes et renforce la validité des résultats obtenus. De plus, la possibilité d’exporter les résultats sous différents formats (png, pdf, etc.) permet de manipuler les résultats obtenus afin de les introduire dans d,autres travaux.
+
+#### Adaptabilité et flexibilité
+
+Enfin, l’**adaptabilité et la flexibilité** des outils choisis ont été essentiels pour répondre à la diversité des types de données collectées et aux exigences de personnalisation des graphiques. **ggplot2** est extrêmement flexible, permettant une large gamme de modifications des graphiques, que ce soit au niveau des couleurs, des axes ou des annotations. Cette flexibilité m’a permis de concevoir des visualisations spécifiques et adaptées aux besoins de ma recherche.
+
+**En résumé**, les outils que j’ai choisis – **Excel**, **Factiva**, **R** et **ggplot2** – ont été sélectionnés en fonction de leur accessibilité, de la présence d’une communauté active, de leur popularité dans le domaine, de leur compatibilité avec d’autres outils, et de leur capacité à garantir la transparence et la réplicabilité de mon travail. Ils ont également fait preuve d’une grande flexibilité, ce qui m’a permis d’adapter les outils à mes besoins spécifiques et de produire des résultats pertinents pour la question de recherche.
+
+# Bibliographie des données
+
+-   **Giuliano, R., & Marcipont, A.** (2023). L’impact du télétravail en temps de crise sanitaire sur le bien-être au travail : perceptions différentes entre les hommes et les femmes ? *La Revue des Sciences de Gestion*, *N° 324*(5), 37-46. <https://doi.org/10.3917/rsg.324.0037>
+
+-   **Liégeois, M., & Taskin, L.** (2021). Quel est l'impact du télétravail sur la cohésion des équipes ? Étude de cas chez PwC Luxembourg.
+
+-   **Noirfalise, M., & Meurens, P.** (2021). Quel est l’impact du télétravail forcé par la pandémie sur la gestion de la motivation des employés et les techniques managériales visant à entretenir celle-ci ? *Études du cas des employés belges*. ISO, 690.
+
+-   **Ognodo, R. E.** (2021). *La gestion des personnes en période de télétravail* (Mémoire). Université du Québec à Rimouski, Unités départementales des sciences de la gestion, Rimouski.
+
+-   **Tissandier, P., & Mariani-Rousset, S.** (2019). Les bénéfices du télétravail : Mobilité modérée : réduction du stress et des émissions de gaz à effets de serre. *Revue francophone sur la santé et les territoires*. <https://doi.org/10.4000/rfst.397>
+
+**Voici la liste des articles utilisés pour la collecte de données**:
+
+-   **Sudouest.fr.** (2024, 18 novembre). *Télétravailler, c’est la santé ?* Sudouest.fr. <https://www.sudouest.fr/>
+
+-   **Le Figaro.** (2024, 7 octobre). *Ces grands patrons tentés de revenir en arrière sur le télétravail.* Le Figaro. <https://www.lefigaro.fr/>
+
+-   **Les Echos.fr.** (2024, 23 septembre). *Derrière le télétravail, la question clé de l'engagement des salariés.* Les Echos.fr. <https://www.lesechos.fr/>
+
+-   **Sudouest.fr.** (2024, 30 septembre). *Télétravail : quatre ans après le Covid-19, pourquoi les patrons veulent-ils serrer la vis ?* Sudouest.fr. <https://www.sudouest.fr/>
+
+-   **Courrier Laval Online.** (2024, 1 avril). *Les femmes et les hommes inégaux face au stress du télétravail.* Courrier Laval Online. <https://www.courrierlaval.com/>
+
+-   **Les Affaires Online.** (2024, 22 février). *L'enfer du travail à la maison avec un TDAH.* Les Affaires Online. <https://www.lesaffaires.com/>
+
+-   **La Tribune.** (2022, 13 janvier). *Malgré la déferlante Omicron, le télétravail ne progresse pas en France.* La Tribune. <https://www.latribune.fr/>
+
+-   **Le Républicain Lorrain.** (2020, 24 novembre). *Epidémie de Covid-19 : Une tendance durable à condition de lever de nombreux freins.* Le Républicain Lorrain. <https://www.republicain-lorrain.fr/>
+
+-   **La Dernière Heure.** (2024, 16 septembre). *Fini le télétravail, Amazon exige un retour à temps plein au bureau.* La Dernière Heure. <https://www.dhnet.be/>
+
+-   **Euronews.** (2024, 23 septembre). *Trajets domicile-travail : de fortes disparités en Europe.* Euronews. <https://www.euronews.com/>
+
+-   **AFP.** (2020, 20 mai). *Architectes et urbanistes planchent sur la ville de rêve post-confinement.* AFP. <https://www.afp.com/>
+
+-   **AWP Swiss News.** (2022, 25 janvier). *Coronavirus : des associations professionnelles réclament la fin des mesures.*AWP Swiss News. <https://www.awp.swiss/>
+
+-   **Conseiller Online.** (2024, 7 mai). *Le nouveau défi de la Fed : les consommateurs dépensiers.* Conseiller Online. <https://www.conseiller.ca/>
+
+-   **Les Echos.** (2024, 26 septembre). *Derrière le télétravail, la question clé de l'engagement des salariés.* Les Echos. <https://www.lesechos.fr/>
+
+-   **Dares.** (2024). *Télétravail et isolement social : les impacts sur la santé mentale des salariés.* Dares. <https://www.dares.travail-emploi.gouv.fr/>
+
+-   **Étude IFOP.** (2023). *Comment les jeunes salariés perçoivent le télétravail ?* Étude IFOP. <https://www.ifop.com/>
+
+-   **Revue Santé & Travail.** (2023). *Les bienfaits du télétravail sur la qualité de vie des salariés.* Revue Santé & Travail. <https://www.sante-et-travail.fr/>
+
+-   **Observatoire du Travail.** (2024). *Pourquoi certains salariés veulent retourner au bureau ?* Observatoire du Travail. <https://www.observatoire-travail.fr/>
+
+-   **Étude RH Mag.** (2024). *Le télétravail, un défi pour les managers.* Étude RH Mag. <https://www.rhmag.com/>
+
+-   **Étude Sociologique.** (2024). *Télétravail : entre liberté et surcharge de travail.* Étude Sociologique.
+
+-   **Agence France Presse.** (2020, 29 avril). *Angoisse, stress, déprime : la santé psychologique des salariés en péril.*Agence France Presse. <https://www.afp.com/>
+
+-   **L’Express-L’Impartial.** (2020, 26 novembre). *Télétravail : mes droits et devoirs en six questions.* L’Express-L’Impartial. <https://www.express.fr/>
+
+-   **L'Opinion.** (2021, 2 février). *Paradoxalement, la crise et le travail à distance ont renforcé les collectifs dans les entreprises.* L'Opinion. <https://www.lopinion.fr/>
+
+-   **Maddyness.** (2021, 22 février). *La crise amplifie les inégalités entre les femmes et les hommes au travail.* Maddyness. <https://www.maddyness.com/>
+
+-   **24 Heures Online.** (2021, 22 janvier). *Coronavirus : Le télétravail bouleverse le monde professionnel.* 24 Heures Online. <https://www.24heures.ch/>
+
+-   **AFP.** (2021, 9 juin). *Chez Malakoff Humanis, un retour au bureau mais pas de retour en arrière.* AFP. <https://www.afp.com/>
+
+-   **La Dernière Heure.** (2020, 15 juin). *Mobilité et télétravail intimement liés !* La Dernière Heure. <https://www.dhnet.be/>
+
+-   **Securex.** (2021, 8 novembre). *Mixer travail à distance et sur place réduit les absences de courte durée.* Securex. <https://www.securex.fr/>
+
+-   **L'Union / L'Ardennais.** (2023, 4 juillet). *Le télétravail impliquerait une confiance réciproque.* L'Union / L'Ardennais. <https://www.lunion.fr/>
+
+-   **L'Opinion.** (2021, 15 mars). *Le télétravail limite la visibilité des managers sur leurs équipes.* L'Opinion. <https://www.lopinion.fr/>
+
+-   **Agence France Presse.** (2020, 3 novembre). *Télétravail : négociation sous le signe de la discorde entre patronat et syndicats.* Agence France Presse. <https://www.afp.com/>
+
+-   **AWP Swiss News.** (2021, 6 octobre). *Le télétravail n'a pas eu raison de l'immobilier de bureau.* AWP Swiss News. <https://www.awp.swiss/>
+
+-   **L'Humanité.** (2021, 29 décembre). *Prévention: Le télétravail, une martingale étriquée.* L'Humanité. <https://www.humanite.fr/>
+
+-   **Sudouest.fr.** (2023, 4 février). *Réforme des retraites : le télétravail est-il une "arme anti-grèves" efficace ?* Sudouest.fr. <https://www.sudouest.fr/>
+
+-   **JDN - JournalduNet.com.** (2021, 10 novembre). *Le télétravail est-il là pour perdurer ?* JDN - JournalduNet.com. <https://www.journaldunet.com/>
+
+-   **AWP Swiss News.** (2020, 27 juillet). *USA: 80% des entreprises comptent maintenir le télétravail après la crise.* AWP Swiss News. <https://www.awp.swiss/>
+
+-   **Agence France Presse.** (2021, 23 mars). *La banque Citi bannit les Zoom le vendredi et encourage à prendre des vacances.* Agence France Presse. <https://www.afp.com/>
+
+-   **Agence France Presse.** (2020, 10 décembre). *"On n'est que des pions": les salariés de la restauration collective inquiets pour leur emploi.* Agence France Presse. <https://www.afp.com/>
+
