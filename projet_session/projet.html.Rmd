@@ -1,5 +1,0 @@
----
-Travail_session ''
-output: html_document
-date: "2024-11-25"
----

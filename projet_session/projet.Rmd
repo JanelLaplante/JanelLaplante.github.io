@@ -5,9 +5,35 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 
-# 1. Introduction
+# Les impacts du télétravail sur les salariés
 
-## 1.1 Question de recherche
+------------------------------------------------------------------------
+
+![](images/Logo_u.png){width="176"}
+
+## Auteur
+
+-   Janel Laplante
+
+## Matricules
+
+-   111 228 813
+
+## Professeur
+
+-   M. Adrien Cloutier
+
+## Cours
+
+-   POL 6078
+
+## Établissement scolaire
+
+-   Université Laval
+
+------------------------------------------------------------------------
+
+# 1. Question de recherche
 
 Avec l'essor des technologies numériques et l'évolution des modes de travail, le télétravail est devenu une composante de l'organisation du travail dans de nombreuses entreprises à travers le monde. Le déclenchement de la pandémie de COVID-19 a accéléré cette transformation, poussant un grand nombre d'organisations à adopter le télétravail pour maintenir la continuité des activités tout en respectant les mesures sanitaires. Bien que le télétravail ait été perçu comme une solution temporaire, il est désormais intégré de manière pérenne dans de nombreuses stratégies organisationnelles. C'est pourquoi la question de recherche de ce travail est la suivante: **"Quels sont les impacts du télétravail sur les salariés?"**
 
@@ -15,7 +41,7 @@ Cette question de recherche vise à s'intéresser aux répercussions de ce nouve
 
 # 2. Hypothèse et revue de la littérature scientifique
 
-## 1.1 Revue de la littérature scientifique
+## 2.1 Revue de la littérature scientifique
 
 Parmi les articles qui offrent une vision plutôt favorable du télétravail pour les salariés, le texte ***Les bénéfices du télétravail*** de Patrick Tissandier et Sophie Mariani-Rousset (Tissandier et Mariani-Rousset, 2019) propose d’étudier l’impact du télétravail sur la qualité de vie des télétravailleurs ainsi que sur la mobilité. Cette recherche repose sur un recrutement dans deux entreprises pilotes, suivi par l'observation de télétravailleurs en phase d’expérimentation afin d'évaluer les avantages et les inconvénients du télétravail. Selon l'article, malgré les aspects contraignants, les résultats montrent des conséquences positives dues à l’absence de mobilité, tant sur la santé individuelle que collective (enjeux environnementaux, urbains, etc.).
 
@@ -27,11 +53,11 @@ C'est également ce que l'étude de cas de Mathilde Liégeois, ***Quel est l'im
 
 Finalement, un dernier article relevé lors de la revue de littérature est *L**a gestion des personnes en période de télétravail***(Ognodo, 2021). Les résultats de l'étude montrent que les employés perçoivent généralement le télétravail de manière positive. Parmi les avantages exposés, il est possible d'y retrouver la réduction des déplacements, la diminution de certaines dépenses (comme les frais de transport et de restauration) et une augmentation de l'efficacité au travail. Toutefois, l'étude met également en lumière des défis importants. Un des points négatifs récurrents concerne la rupture du lien social, le manque d'interactions informelles et de cohésion d'équipe. De plus, les résultats suggèrent que pour que le télétravail soit véritablement efficace à long terme, les gestionnaires doivent être plus à l'écoute des besoins des employés, en facilitant la communication et en soutenant activement les travailleurs à distance. Bref, cet article suggère une position plus modérée face au télétravail, en mettant en lumière ses aspects positifs, mais également les défis qu'engendre cette nouvelle structure de travail.
 
-## 1.2 Hypothèse
+## 2.2 Hypothèse
 
 En lien avec la question de recherche et suite à la revue de littérature, l'hypothèse suivante a été formulée : "**je suppose que le télétravail a des impacts majoritairement positifs sur les salariés**". Cette hypothèse repose sur l'idée que le télétravail peut être grandement bénéfique pour les employés, contribuant à une augmentation de la motivation et à une meilleure qualité de vie. Cependant, mon hypothèse peut être nuancée en considérant que la littérature semble indiquer que les impacts positifs du télétravail sur les travailleurs dépendent principalement des mesures et du soutien mis en place par l'employeur au sein de son entreprise.
 
-## 1.3 Les outils utilisés pour la revue de la littérature
+## 2.3 Les outils utilisés pour la revue de la littérature
 
 Dans le cadre de ma revue de littérature, j'ai utilisé Google Scholar et Zotero comme outils principaux pour collecter et organiser les sources pertinentes.
 
@@ -41,7 +67,7 @@ Zotero, quant à lui, m'a permis de gérer efficacement les références collect
 
 Ces outils m'ont donc offert une approche méthodologique rigoureuse et une gestion optimale de l'information nécessaire à la construction de ma revue de littérature.
 
-# 2.Collecte des données
+# 3.Collecte des données
 
 J’ai débuté ma collecte de données pour ce travail de recherche avec la plateforme Eureka. Cependant, bien que cet outil offre un accès à une vaste gamme de contenus médiatiques, j’ai constaté que son interface et ses fonctionnalités de recherche ne répondaient pas entièrement à mes besoins en termes de pertinence et de précision des résultats. Ainsi, j’ai finalement opté pour Factiva, un outil accessible via la licence de l’Université Laval.
 
@@ -57,7 +83,7 @@ La création d'un tableau Excel avait pour objectif de trier chaque article selo
 
 En outre, la qualité des sources collectées via Factiva a été un atout majeur dans la construction de cette recherche, notamment grâce à la présence d'études réalisées en contexte européen et nord-américain.
 
-# 3.Analyse et visualisation des données
+# 4.Analyse et visualisation des données
 
 Voici les données extraites lors de ma collecte:
 
@@ -85,7 +111,7 @@ J’ai commencé par concevoir un graphique représentant la répartition des ar
 
 Pour m’aider dans la création de ces graphiques, j’ai utilisé ChatGPT comme outil d’assistance pour formuler les scripts et résoudre les problèmes techniques rencontrés. J’ai également consulté des ressources pédagogiques sur DataCamp, qui m’ont aidé à mieux comprendre les fonctionnalités de ggplot2 et à personnaliser mes visualisations en fonction des besoins de mon projet. Cette approche m’a permis de produire des graphiques clairs et pertinents pour répondre à la problématique de mon travail.
 
-# 4.Discussion
+# 5.Discussion
 
 Dans le cadre de ce travail de recherche, le choix des outils utilisés a été guidé par plusieurs critères essentiels en lien avec mes besoins spécifiques et les valeurs qui ont orienté mes décisions. Lors de cette réflexion, j'ai pris en compte les critères de sélection des outils abordés en classe, notamment l'accessibilité, la communauté d'utilisateurs, la popularité dans le domaine de l'analyse de données, ainsi que des éléments plus techniques comme la compatibilité entre les outils, la transparence, la réplicabilité et la flexibilité.
 
@@ -200,4 +226,3 @@ Enfin, l’**adaptabilité et la flexibilité** des outils choisis ont été es
 -   **Agence France Presse.** (2021, 23 mars). *La banque Citi bannit les Zoom le vendredi et encourage à prendre des vacances.* Agence France Presse. <https://www.afp.com/>
 
 -   **Agence France Presse.** (2020, 10 décembre). *"On n'est que des pions": les salariés de la restauration collective inquiets pour leur emploi.* Agence France Presse. <https://www.afp.com/>
-
